@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(235, 226, 211);
+    padding: 10px;
+    //position: relative;
+}
+
+.page-comparison {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+    
+    &__position {
+        width: calc(33% - 10px*2/3);
+        &:hover {
+            box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+          }
+        
+        @media screen and (max-width:1200px) {
+            width: calc(50% - 10px*1/2); 
+        }
+    }
+}
+

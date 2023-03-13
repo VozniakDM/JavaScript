@@ -1,0 +1,43 @@
+[
+    {
+        "title":"Відеокарта Palit Nvidia GeForce RTX 3050 Dual OC 8 GB",
+        "price":{"title":"Цена","value":17000},
+        "chip":{"title":"Графічний чип","value":"GeForce RTX 3060"},
+        "frq_mem":{"title":"Частота пам'яті","value":"14000"},
+        "frq_core":{"title":"Частота ядра","value":"2022"},
+        "cool":{"title":"Система охолодження","value":"активна"},
+        "size_mem":{"title":"Обсяг пам'яті","value":"10 ГБ"},
+        "bus_mem":{"title":"Розрядність шини пам'яті","value":"128 біт"},
+        "type_mem":{"title":"Тип пам'яті","value":"GDDR6"},
+        "resolution":{"title":"Максимально підтримувана роздільна здатність","value":"7680x4380"},
+        "poer_su":{"title":"Мінімально необхідна потужність БЖ","value":"160 Вт"},
+        "size":{"title":"Розміри","value":"245x119x40 мм"}
+    },
+    {
+        "title":"Відеокарта Palit Nvidia GeForce RTX 3050 Dual OC 8 GB",
+        "price":{"title":"Цена","value":17000},
+        "chip":{"title":"Графічний чип","value":"GeForce RTX 3060"},
+        "frq_mem":{"title":"Частота пам'яті","value":"14000"},
+        "frq_core":{"title":"Частота ядра","value":"2022"},
+        "cool":{"title":"Система охолодження","value":"активна"},
+        "size_mem":{"title":"Обсяг пам'яті","value":"10 ГБ"},
+        "bus_mem":{"title":"Розрядність шини пам'яті","value":"128 біт"},
+        "type_mem":{"title":"Тип пам'яті","value":"GDDR6"},
+        "resolution":{"title":"Максимально підтримувана роздільна здатність","value":"7680x4380"},
+        "poer_su":{"title":"Мінімально необхідна потужність БЖ","value":"160 Вт"},
+        "size":{"title":"Розміри","value":"245x119x40 мм"}},
+    {
+        "title":"Відеокарта Palit Nvidia GeForce RTX 3050 Dual OC 8 GB",
+        "price":{"title":"Цена","value":17000},
+        "chip":{"title":"Графічний чип","value":"GeForce RTX 3060"},
+        "frq_mem":{"title":"Частота пам'яті","value":"14000"},
+        "frq_core":{"title":"Частота ядра","value":"2022"},
+        "cool":{"title":"Система охолодження","value":"активна"},
+        "size_mem":{"title":"Обсяг пам'яті","value":"10 ГБ"},
+        "bus_mem":{"title":"Розрядність шини пам'яті","value":"128 біт"},
+        "type_mem":{"title":"Тип пам'яті","value":"GDDR6"},
+        "resolution":{"title":"Максимально підтримувана роздільна здатність","value":"7680x4380"},
+        "poer_su":{"title":"Мінімально необхідна потужність БЖ","value":"160 Вт"},
+        "size":{"title":"Розміри","value":"245x119x40 мм"}
+    }
+]
